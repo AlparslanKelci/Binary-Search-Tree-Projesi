@@ -1,4 +1,4 @@
-<center>
+
 
 # [7,5,1,8,3,6,0,9,4,2] -> Binary tree search
 
@@ -25,7 +25,6 @@ graph TD;
 
 [Alparslan KELCİ](https://github.com/AlparslanKelci "My github repository")
 
-</center>
 <br>
 
 * Created with Markdown syntax & Mermaid Graphs
